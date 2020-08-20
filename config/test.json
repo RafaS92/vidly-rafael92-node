@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "1234",
-  "db": "mongodb://localhost/vidly_tests"
+  "db": "mongodb+srv://Rafael:codenow@cluster0.asvbq.mongodb.net/sample_weatherdata?retryWrites=true&w=majority"
 }

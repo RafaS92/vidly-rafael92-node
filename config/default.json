@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "vidly_db",
+  "db": "mongodb+srv://Rafael:<password>@cluster0.asvbq.mongodb.net/<dbname>?retryWrites=true&w=majority",
   "port": "3900",
   "requiresAuth": true
 }
