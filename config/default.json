@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb+srv://Rafael:codenow@cluster0.asvbq.mongodb.net/test",
+  "db": "mongodb+srv://Rafael:code123@cluster0.asvbq.mongodb.net/",
   "port": "3900",
   "requiresAuth": true
 }
